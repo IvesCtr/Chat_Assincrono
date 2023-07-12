@@ -5,6 +5,6 @@ O chat é assíncrono, isto é, cada cliente pode enviar quantas mensagens quise
 <br>
 O funcionamento é simples. Existe um servidor e vários clientes. As mensagens dos clientes são enviadas para o servidor que, por sua vez, envia em broadcast a mensagem para todos os outros clientes conectados.
 <br><br>
-A construção desse código exige um conhecimento amplo de <strong>Sistemas Operacionais</strong>, visto que foi-se necessário o uso de threads, e <strong>Redes de Computadores</strong>.
+O entendimento desse código exige um conhecimento amplo de <strong>Sistemas Operacionais</strong>, visto que foi-se necessário o uso de threads, e <strong>Redes de Computadores</strong>.
 <br><br>
 <strong>Observação:</strong> o código foi feito no <strong>Sistema Operacional Windows</strong>. Para Linux, o código deverá passar por breves alterações para funcionar corretamente, pois as bibliotecas são levemente diferentes. 
